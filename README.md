@@ -4,10 +4,10 @@
 
 Your intelligent career partner to analyze, optimize, and build ATS-friendly resumes using AI.
 
-![Stars](https://img.shields.io/github/stars/USERNAME/REPO?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/USERNAME/REPO?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/USERNAME/REPO?style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/USERNAME/REPO?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/DebeshPanda555/Draft.io?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/DebeshPanda555/Draft.io?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/DebeshPanda555/Draft.io?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/DebeshPanda555/Draft.io?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/Open%20Source-❤️-green?style=for-the-badge)
 
 </div>
