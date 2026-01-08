@@ -1,4 +1,4 @@
-﻿"""
+"""
 Draft.io - Main Application
 """
 import time
@@ -895,12 +895,7 @@ class ResumeApp:
         if st.button("Generate Resume 📄", type="primary"):
             print("Validating form data...")
             print(f"Session state form data: {st.session_state.form_data}")
-
-            email_value = st.session_state.get('email_input', '')
-            print(f"Email input value: {email_value}")
-
-            current_name = st.session_state.form_data['personal_info']['full_name'].strip()
-            current_email = st.session_state.email_input if 'email_input' in st.session_state else ''
+            print(f"Email input value: {st.session_state.get('email_input' , '')}")
 
             # Get the current values from form
             current_name = st.session_state.form_data['personal_info']['full_name'].strip(
