@@ -42,7 +42,8 @@ def get_chrome_version():
                     try:
                         # Try using registry/wmic to get version
                         output = subprocess.check_output(
-                            ['wmic', 'datafile', 'where', f'name="{path.replace("\\", "\\\\")}"', 'get', 'Version', '/value'],
+                            safe_path = path.replace("\\", "\\\\")
+                            ['wmic', 'datafile', 'where', f'name="{safe_path}"', 'get', 'Version', '/value'],
                             stderr=subprocess.STDOUT
                         )
                         version_str = output.decode('utf-8').strip()
