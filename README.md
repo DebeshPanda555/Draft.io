@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Draft.io:-Smart AI Resume Analyzer
+# Draft.io:-Smart AI Resume Analyzer
 
 Your intelligent career partner to analyze, optimize, and build ATS-friendly resumes using AI.
 
@@ -26,13 +26,13 @@ This project provides intelligent insights, role-based feedback, and resume opti
 
 | ⭐ Stars | 🍴 Forks | 🐞 Issues | 📦 Repo Size | 🔓 Open Source |
 |-------|--------|--------|-----------|--------------|
-| ![](https://img.shields.io/github/stars/USERNAME/REPO) | ![](https://img.shields.io/github/forks/USERNAME/REPO) | ![](https://img.shields.io/github/issues/USERNAME/REPO) | ![](https://img.shields.io/github/repo-size/USERNAME/REPO) | ✅ |
+| ![](https://img.shields.io/github/stars/DebeshPanda555/Draft.io) | ![](https://img.shields.io/github/forks/DebeshPanda555/Draft.io) | ![](https://img.shields.io/github/issues/DebeshPanda555/Draft.io) | ![](https://img.shields.io/github/repo-size/DebeshPanda555/Draft.io) | ✅ |
 
 ---
 
 ## 🔗 Helpful Links
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-orange?style=for-the-badge)](LIVE_DEMO_LINK)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-orange?style=for-the-badge)](https://draft-io.onrender.com/)
 [![Documentation](https://img.shields.io/badge/Documentation-Read-blue?style=for-the-badge)](DOCUMENTATION_LINK)
 [![AI Models](https://img.shields.io/badge/AI%20Models-Docs-purple?style=for-the-badge)](MODEL_DOC_LINK)
 [![Contribute](https://img.shields.io/badge/Contribute-Read-green?style=for-the-badge)](CONTRIBUTION_LINK)
