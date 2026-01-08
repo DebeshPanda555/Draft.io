@@ -88,7 +88,7 @@ This project provides intelligent insights, role-based feedback, and resume opti
 
 ```bash
 # Clone the repository
-git clone https://github.com/USERNAME/REPO.git
+git clone https://github.com/DebeshPanda555/Draft.io.git
 
 # Navigate into the project
 cd REPO
@@ -97,4 +97,4 @@ cd REPO
 pip install -r requirements.txt
 
 # Run the application
-streamlit run app.py
+npm run app.py
